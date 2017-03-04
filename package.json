@@ -1,5 +1,5 @@
 {
-  "name": "simple-proxy-server-cli",
+  "name": "simple-reverse-proxy-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
